@@ -1,10 +1,10 @@
 [
 
   {
-    "repository": "CyanogenMod/android_device_google_sprout-common",
+    "repository": "UberSlim/device_google_sprout-common",
     "target_path": "device/google/sprout-common",
     "remote": "github",
-    "revision": "cm-12.1"
+    "revision": "lp5.1"
   },
   {
     "repository": "CyanogenMod/android_kernel_mediatek_sprout",
