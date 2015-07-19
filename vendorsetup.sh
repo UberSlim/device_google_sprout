@@ -1,1 +1,1 @@
-add_lunch_combo ownrom_sprout4-userdebug
+add_lunch_combo slim_sprout-userdebug
