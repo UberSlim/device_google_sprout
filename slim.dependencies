@@ -13,9 +13,9 @@
     "revision": "cm-12.1"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_google",
+    "repository": "akhilnarng/proprietary_vendor_google",
     "target_path": "vendor/google",
     "remote": "github",
-    "revision": "cm-12.1"
+    "revision": "patch-1"
   }
 ]
