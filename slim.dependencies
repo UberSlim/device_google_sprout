@@ -7,15 +7,15 @@
     "revision": "lp5.1"
   },
   {
-    "repository": "CyanogenMod/android_kernel_mediatek_sprout",
+    "repository": "akhilnarang/android_kernel_mediatek_sprout",
     "target_path": "kernel/mediatek/sprout",
     "remote": "github",
     "revision": "cm-12.1"
   },
   {
-    "repository": "akhilnarng/proprietary_vendor_google",
+    "repository": "ResurrectionRemix-Devices/proprietary_vendor_google",
     "target_path": "vendor/google",
     "remote": "github",
-    "revision": "patch-1"
+    "revision": "cm-12.1"
   }
 ]
